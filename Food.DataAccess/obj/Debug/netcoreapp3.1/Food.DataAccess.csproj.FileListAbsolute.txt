@@ -1,0 +1,9 @@
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\bin\Debug\netcoreapp3.1\Food.DataAccess.deps.json
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\bin\Debug\netcoreapp3.1\Food.DataAccess.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\obj\Debug\netcoreapp3.1\Food.DataAccess.csprojAssemblyReference.cache
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\obj\Debug\netcoreapp3.1\Food.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\obj\Debug\netcoreapp3.1\Food.DataAccess.AssemblyInfo.cs
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\bin\Debug\netcoreapp3.1\Food.DataAccess.pdb
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\obj\Debug\netcoreapp3.1\Food.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\obj\Debug\netcoreapp3.1\Food.DataAccess.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.DataAccess\obj\Debug\netcoreapp3.1\Food.DataAccess.pdb

@@ -1,0 +1,8 @@
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\bin\Debug\netcoreapp3.1\Food.Utilities.deps.json
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\bin\Debug\netcoreapp3.1\Food.Utilities.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\bin\Debug\netcoreapp3.1\Food.Utilities.pdb
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\obj\Debug\netcoreapp3.1\Food.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\obj\Debug\netcoreapp3.1\Food.Utilities.AssemblyInfoInputs.cache
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\obj\Debug\netcoreapp3.1\Food.Utilities.AssemblyInfo.cs
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\obj\Debug\netcoreapp3.1\Food.Utilities.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food.Utilities\obj\Debug\netcoreapp3.1\Food.Utilities.pdb
