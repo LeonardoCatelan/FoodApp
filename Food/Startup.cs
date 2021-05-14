@@ -8,10 +8,11 @@ using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
-using Food.Data;
+using Food.DataAccess;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+
 
 namespace Food
 {
@@ -32,6 +33,10 @@ namespace Food
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            services.AddMvc(options => options.EnableEndpointRouting = false)
+                .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0);
+
             services.AddRazorPages().AddRazorRuntimeCompilation();
         }
 
@@ -58,10 +63,14 @@ namespace Food
             app.UseAuthentication();
             app.UseAuthorization();
 
+            app.UseMvc();
+
+            /*
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
             });
+            */
         }
     }
 }

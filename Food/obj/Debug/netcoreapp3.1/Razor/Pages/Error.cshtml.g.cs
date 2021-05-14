@@ -28,13 +28,13 @@ using Food;
 #nullable disable
 #nullable restore
 #line 3 "C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\Pages\_ViewImports.cshtml"
-using Food.Data;
+using Food.DataAccess;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1f02565c188bc0cf60de1bc120acef71a3608055", @"/Pages/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"29c8076fe76b3b71d958c424e88166ba43a211bc", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"51712a88b5de3e50c0223f03289a351f543d7029", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Error : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #pragma warning disable 1998

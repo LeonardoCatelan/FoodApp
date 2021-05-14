@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Food", "Food\Food.csproj", "{F2F647BE-20BA-4FB7-9BC0-1EFF66844944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Models", "Food.Models\Food.Models.csproj", "{4CA6A89D-FF27-46E0-8EDE-53609C9E1540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Food.Models", "Food.Models\Food.Models.csproj", "{4CA6A89D-FF27-46E0-8EDE-53609C9E1540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Utilities", "Food.Utilities\Food.Utilities.csproj", "{EFB871B5-C91E-4CF3-B300-2892557B77E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Food.Utilities", "Food.Utilities\Food.Utilities.csproj", "{EFB871B5-C91E-4CF3-B300-2892557B77E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.DataAccess", "Food.DataAccess\Food.DataAccess.csproj", "{A411EB10-C4D7-4E64-BE2D-C498651AC5B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Food.DataAccess", "Food.DataAccess\Food.DataAccess.csproj", "{A411EB10-C4D7-4E64-BE2D-C498651AC5B6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4CA6A89D-FF27-46E0-8EDE-53609C9E1540} = {4CA6A89D-FF27-46E0-8EDE-53609C9E1540}
+		{EFB871B5-C91E-4CF3-B300-2892557B77E5} = {EFB871B5-C91E-4CF3-B300-2892557B77E5}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

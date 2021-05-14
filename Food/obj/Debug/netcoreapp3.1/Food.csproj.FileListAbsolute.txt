@@ -388,3 +388,9 @@ C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\obj\Debug\netcoreapp3.1\Food
 C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\obj\Debug\netcoreapp3.1\Food.dll
 C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\obj\Debug\netcoreapp3.1\Food.pdb
 C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\obj\Debug\netcoreapp3.1\Food.genruntimeconfig.cache
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\bin\Debug\netcoreapp3.1\Food.DataAccess.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\bin\Debug\netcoreapp3.1\Food.DataAccess.pdb
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\bin\Debug\netcoreapp3.1\Food.Models.dll
+C:\Users\Leonardo_Catelan\source\repos\FoodApp\Food\bin\Debug\netcoreapp3.1\Food.Models.pdb
